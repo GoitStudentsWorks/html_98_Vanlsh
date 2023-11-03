@@ -5,7 +5,7 @@
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "build": "vite build --base=/html_98_Vanlsh/",
+     "build": "vite build --base=/html_98_Vanlsh/",
     "preview": "vite preview"
   },
   "devDependencies": {
